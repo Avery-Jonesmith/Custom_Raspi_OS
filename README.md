@@ -1,0 +1,1 @@
+Just a project for developing my own custom operating system for the Raspberry Pi Zero W
